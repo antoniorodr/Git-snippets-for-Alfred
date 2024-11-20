@@ -9,13 +9,13 @@
 <h1 align="center">Git snippets for Alfred</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/antoniorodr/alfred_git_snippets?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/antoniorodr/Git-snippets-for-Alfred?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/antoniorodr/alfred_git_snippets?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/antoniorodr/Git-snippets-for-Alfred?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/antoniorodr/alfred_git_snippets?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/antoniorodr/Git-snippets-for-Alfred?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/antoniorodr/alfred_git_snippets?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/antoniorodr/Git-snippets-for-Alfred?color=56BEB8">
 
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/antoniorodr/alfred_git_snippets?color=56BEB8" /> -->
