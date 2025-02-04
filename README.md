@@ -3,7 +3,6 @@
 
   &#xa0;
 
-  <!-- <a href="https://alfred_git_snippets.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Git snippets for Alfred</h1>
@@ -18,20 +17,13 @@
   <img alt="License" src="https://img.shields.io/github/license/antoniorodr/Git-snippets-for-Alfred?color=56BEB8">
 
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/antoniorodr/alfred_git_snippets?color=56BEB8" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/antoniorodr/alfred_git_snippets?color=56BEB8" />
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/antoniorodr/alfred_git_snippets?color=56BEB8" /> -->
+  <img alt="Github forks" src="https://img.shields.io/github/forks/antoniorodr/alfred_git_snippets?color=56BEB8" />
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/antoniorodr/alfred_git_snippets?color=56BEB8" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/antoniorodr/alfred_git_snippets?color=56BEB8" />
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Alfred_git_snippets 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -41,11 +33,6 @@
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/antoniorodr" target="_blank">Author</a>
 </p>
-
-
-<div style="text-align:center"> 
-  <a href="https://www.buymeacoffee.com/antoniorodr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" height="48"></a>
-</div>
 
 <br>
 
@@ -70,6 +57,10 @@ Before starting :checkered_flag:, you need to have [Alfred](https://www.alfredap
 # Install the collection
 Just download the file from releases and click on it.
 ```
+
+## :eyes: Do you like my work? ##
+
+<a href="https://www.buymeacoffee.com/antoniorodr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" height="48"></a>
 
 ## :memo: License
 
