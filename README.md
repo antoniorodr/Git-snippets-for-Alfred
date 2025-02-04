@@ -64,7 +64,7 @@ Just download the file from releases and click on it.
 
 ## :memo: License
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under GPL license. For more details, see the [LICENSE](LICENSE.md) file.
 
 
 Made with :heart: by <a href="https://github.com/antoniorodr" target="_blank">Antonio Rodriguez</a>
