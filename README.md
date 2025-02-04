@@ -17,11 +17,11 @@
   <img alt="License" src="https://img.shields.io/github/license/antoniorodr/Git-snippets-for-Alfred?color=56BEB8">
 
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/antoniorodr/alfred_git_snippets?color=56BEB8" />
+  <img alt="Github issues" src="https://img.shields.io/github/issues/antoniorodr/Git-snippets-for-Alfred?color=56BEB8" />
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/antoniorodr/alfred_git_snippets?color=56BEB8" />
+  <img alt="Github forks" src="https://img.shields.io/github/forks/antoniorodr/Git-snippets-for-Alfred?color=56BEB8" />
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/antoniorodr/alfred_git_snippets?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/antoniorodr/Git-snippets-for-Alfred?color=56BEB8" />
 </p>
 
 
